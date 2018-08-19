@@ -1,5 +1,5 @@
 ##简易的vue实现  
-Dep.js  
+Dep  
 Observe  
 Watcher  
 Compile  
