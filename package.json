@@ -1,0 +1,22 @@
+{
+  "name": "simple-vue",
+  "version": "1.0.0",
+  "description": "Dep   Observe   Watcher   Compile   MVVM   ```js new Vue({   el: 'app',   data: {     data: 1   } }) ``` 嗯嗯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H5zch/simple-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H5zch/simple-vue/issues"
+  },
+  "homepage": "https://github.com/H5zch/simple-vue#readme",
+  "dependencies": {
+    "vuex": "^3.0.1"
+  }
+}
